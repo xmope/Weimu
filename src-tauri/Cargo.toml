@@ -25,4 +25,4 @@ serde_json = "1"
 tokio = "1.52.3"
 rodio = "0.22.2"
 ytmapi-rs = "0.3.2"
-
+rusty_ytdl = "0.7"
